@@ -1,4 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="VcsDirectoryMappings" defaultProject="true" />
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 1/PESQUISA E INOVACAO/repositorio-helpers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/ARQ COMP/dat-acqu-ino" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/ARQ COMP/desfio-arq_comp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/CSS AULA 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/CSS AULA 1/flex-box-atividade-01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/CSS AULA 1/tipos-de-css" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/aquatec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/aquatech-somente-html" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/PI/sinal_verde" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 2/feat-up" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 3/algoritmos/dinamica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 3/arq comp/BobIA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 3/arq comp/cruzadinha-raniel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/1 SEMESTRE/SPRINT 3/web-data-viz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/CALCULO/SPRINT 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/LP/1 SPRINT/ac1-lp-RanierDalton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/LP/1 SPRINT/atividade-poo-cofrinho-encapsulamento-04-RanierDalton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/LP/1 SPRINT/atividade-poo-time-sem-encapsulamento-04-RanierDalton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/LP/1 SPRINT/ordenacao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/PI/SPRINT 1/plcvision" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/PI/SPRINT 1/web-data-viz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../../SPTECH/2 SEMESTRE/PI/featup-adaptado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
 </project>
